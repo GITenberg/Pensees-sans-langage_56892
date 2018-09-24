@@ -1,0 +1,26 @@
+_repo: Pensees-sans-langage_56892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Picabia, Francis
+    birthdate: 1879
+    deathdate: 1953
+    gutenberg_agent_id: '49071'
+    url: http://www.gutenberg.org/2009/agents/49071
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Picabia
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Poésie
+gutenberg_issued: '2018-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56892'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pensées sans langage
+url: http://www.gutenberg.org/ebooks/56892
